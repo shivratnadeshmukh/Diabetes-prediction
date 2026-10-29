@@ -1,0 +1,9 @@
+streamlit
+pandas>=1.5.0
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+Pillow>=9.0.0
+openai
